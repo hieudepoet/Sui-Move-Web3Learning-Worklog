@@ -1,4 +1,4 @@
-# Personal SUI Learning Roadmap
+# SUI Learning Roadmap
 
 ***
 
